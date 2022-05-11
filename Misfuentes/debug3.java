@@ -12,6 +12,7 @@ public class debug3 {
 		num=(int)(1+Math.random()*51);
 		
 		oportunidad=0;
+		//eee
 		int i=1;
 		do {
 		System.out.println("Adivina");
